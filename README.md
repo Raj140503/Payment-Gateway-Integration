@@ -1,4 +1,4 @@
-# Payment Gateway Integration using Braintree and Node js
+# Payment Gateway using Braintree and Node js
 
 Create your own Braintree account and add your own credentials in the code
 
