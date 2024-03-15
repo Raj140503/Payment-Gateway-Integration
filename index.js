@@ -1,5 +1,3 @@
-// index.js
-
 const express = require('express');
 const braintree = require('braintree');
 
