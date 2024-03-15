@@ -8,9 +8,9 @@ const PORT = 3000;
 
 const gateway = new braintree.BraintreeGateway({
     environment: braintree.Environment.Sandbox,
-    merchantId: '638mct7vhwmk76db',
-    publicKey: 'djcdht8rw43x6rdx',
-    privateKey: '9f6ffc2b21a86b42f1909c746bb7a61d'
+    merchantId: '................',  // add your merchant ID
+    publicKey: '.................',  // add your public key
+    privateKey: '.......................' // add your private key
 });
 
 app.use(express.urlencoded({ extended: false }));
